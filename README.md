@@ -38,7 +38,7 @@ Each project taught me how to use **functions, loops, and libraries** more effec
 ## 📈 GitHub Stats
 <div align="center">
   
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaAboelella&show_icons=true&theme=radical)  
 
 </div>
 
@@ -46,6 +46,6 @@ Each project taught me how to use **functions, loops, and libraries** more effec
 
 ## 📫 Connect with me
 - 💼 [LinkedIn](https://linkedin.com) *(add your link later)*  
-- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+- 🐙 [GitHub](https://github.com/MostafaAboelella)
 
 ---
