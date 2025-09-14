@@ -45,7 +45,7 @@ Each project taught me how to use **functions, loops, and libraries** more effec
 ---
 
 ## 📫 Connect with me
-- 💼 [LinkedIn](https://linkedin.com) *(add your link later)*  
+- 💼 [LinkedIn](https://linkedin.com)  
 - 🐙 [GitHub](https://github.com/MostafaAboelella)
 
 ---
