@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student (2nd Year)  
-- 💻 Beginner C++ Developer, exploring **Data Structures & Databases**  
+- 💻 Elementary C++ Developer, exploring **Data Structures & Databases**  
 - 🌱 Currently learning: **C++ | Problem Solving | English**  
 - 🎯 Interests: Programming, Freelance opportunities 
 - ⚡ Fun fact: I always turn small ideas into working code!  
