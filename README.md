@@ -17,17 +17,7 @@
 
 ---
 
-## 🛠️ Projects
-Here are some of the beginner projects I built with C++:
 
-- ⏰ **Digital Clock**  
-- ⏳ **Countdown Timer**  
-- 🧮 **Simple Calculator**  
-- 🔁 **Word Repeater** (spam words with loops & delay)
-
-Each project taught me how to use **functions, loops, and libraries** more effectively.  
-
----
 
 ## 🛠️ Tools & Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
